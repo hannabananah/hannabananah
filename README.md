@@ -1,10 +1,15 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hannah's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=200)
-  
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhannabananah&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hannabananah)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Hannah's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=30&fontAlign=50&height=160)
 
 </div>
+
+```
+- 👩‍💻 현재 SSAFY 12기 교육생들의 프로젝트 실습을 코칭하고 있어요!
+- ⚛️ 해외 법인의 채용 사이트 외주 작업도 진행 중이에요.
+- 🏄‍♀️ 서핑, 스노우보드, 스쿼시에 재미를 느껴요!
+- 🖼️ 자연을 사랑하지만, 친구들과의 만남도 항상 즐거워요!
+```
 
 ---
 
@@ -50,6 +55,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </div>
+
 ---
 
 ## 🏆 Award & Certification
@@ -102,6 +108,8 @@
 
 <div align="center">
   
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhannabananah&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/hannabananah)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssenna3)](https://solved.ac/ssenna3)
 
 </div>
