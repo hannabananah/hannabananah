@@ -68,25 +68,25 @@
 ---
 
 ## 📝 Projects
-### 🛡️ [WINGWING](https://github.com/hannabananah/WINGWING)  
+### 🛡️ [추종 자율비행 드론을 통한 안심 귀가 서비스: WINGWING](https://github.com/hannabananah/WINGWING)  
 > **Kotlin, Jetpack Compose, WebSocket** | 자율 프로젝트 최우수상 (1위)  
 > 갤럭시 워치 및 안드로이드 앱 간 실시간 데이터 연동, 심박수·음성 데이터 기반 위험 감지 시스템 구축  
 
 ---
 
-### 💰 [OMG](https://github.com/hannabananah/OMG)  
+### 💰 [RTF와 WebSocket을 활용한 투자 전략 3D 웹게임: OMG](https://github.com/hannabananah/OMG)  
 > **React, Zustand, TypeScript, Three.js, WebSocket** | 특화 프로젝트 우수상 (2위)  
 > WebSocket 기반 실시간 상태 동기화, 게임 내 경제 활동 로직 구현  
 
 ---
 
-### 🛒 [ZIPPlZ](https://github.com/hannabananah/ZIPPlZ)  
+### 🛒 [WebRTC, WebSocket 기반 화상 통화 계약 플랫폼: ZIPPlZ](https://github.com/hannabananah/ZIPPlZ)  
 > **React, TypeScript, Zustand, Tailwind CSS, WebRTC** | 공통 프로젝트 우수상 (2위)  
 > WebRTC 기반 화상 통신 및 계약서 첨부 기능 구현, 상태 동기화 개선  
 
 ---
 
-### 🌟 [ON&OFF](https://github.com/hannabananah/OnAndOff-FE)  
+### 🌟 [사용자의 취향 분석을 통한 온오프라인 소모임 추천 플랫폼: ON&OFF](https://github.com/hannabananah/OnAndOff-FE)  
 > **React, TypeScript, Zustand, Tailwind CSS** | 웹서비스 프로젝트 최우수상 (2위)  
 > 반응형 UI 및 무한 스크롤 구현, Skeleton UI 및 코드 스플리팅 적용  
 
